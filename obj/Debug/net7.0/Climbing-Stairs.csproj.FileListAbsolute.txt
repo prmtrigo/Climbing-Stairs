@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Climbing-Stairs\bin\Debug\net7.0\Climbing-Stairs.exe
+C:\Users\trigo\Programação\C#\Climbing-Stairs\bin\Debug\net7.0\Climbing-Stairs.deps.json
+C:\Users\trigo\Programação\C#\Climbing-Stairs\bin\Debug\net7.0\Climbing-Stairs.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Climbing-Stairs\bin\Debug\net7.0\Climbing-Stairs.dll
+C:\Users\trigo\Programação\C#\Climbing-Stairs\bin\Debug\net7.0\Climbing-Stairs.pdb
+C:\Users\trigo\Programação\C#\Climbing-Stairs\obj\Debug\net7.0\Climbing-Stairs.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Climbing-Stairs\obj\Debug\net7.0\Climbing-Stairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Climbing-Stairs\obj\Debug\net7.0\Climbing-Stairs.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Climbing-Stairs\obj\Debug\net7.0\Climbing-Stairs.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Climbing-Stairs\obj\Debug\net7.0\Climbing-Stairs.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Climbing-Stairs\obj\Debug\net7.0\Climbing-Stairs.dll
+C:\Users\trigo\Programação\C#\Climbing-Stairs\obj\Debug\net7.0\refint\Climbing-Stairs.dll
+C:\Users\trigo\Programação\C#\Climbing-Stairs\obj\Debug\net7.0\Climbing-Stairs.pdb
+C:\Users\trigo\Programação\C#\Climbing-Stairs\obj\Debug\net7.0\Climbing-Stairs.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Climbing-Stairs\obj\Debug\net7.0\ref\Climbing-Stairs.dll
